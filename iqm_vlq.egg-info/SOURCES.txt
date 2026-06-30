@@ -1,8 +1,0 @@
-README.md
-pyproject.toml
-simple_circuit_estimator.ipynb
-iqm_vlq.egg-info/PKG-INFO
-iqm_vlq.egg-info/SOURCES.txt
-iqm_vlq.egg-info/dependency_links.txt
-iqm_vlq.egg-info/requires.txt
-iqm_vlq.egg-info/top_level.txt
